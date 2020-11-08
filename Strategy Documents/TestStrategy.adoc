@@ -1,14 +1,21 @@
 == Quality Strategy
 
+TIP: In order of most important business requirements .
+Development tests like unit , integration could most likely go last.
+
 Establish Test Pyramid
 
-
-
 .System Testing
-*
+* Why
+* How
+* Cost
+* Benefit
 
 .Performance Tests
-*
+* Why
+* How
+* Cost
+* Benefit
 
 .Development Tests
 * Unit tests
@@ -16,14 +23,23 @@ Establish Test Pyramid
 * TDD ?
 * UI tests/Smoke tests
 
-
 .PipeLine Integration
+* Why
+* How
+* Cost
+* Benefit
 
 .Automation
-*
+* Why
+* How
+* Cost
+* Benefit
 
 .Manual Testing
-*
+* Why
+* How
+* Cost
+* Benefit
 
 
 
