@@ -1,0 +1,19 @@
+@startuml application_Context
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Container.puml
+
+Person(actor1Alias, "Actor 1", "A member of ...")
+Person(actor2Alias, "Actor 2", "A member of ...")
+Person(actor3Alias, "Actor 3", "A member of ...")
+
+System(systemAlias, "System Name", " Details of system")
+Rel(actor1Alias, systemAlias, "Label", "describe activity")
+Rel(actor3Alias, systemAlias, "Label", "describe activity")
+Rel(actor2Alias, systemAlias, "Label", "describe activity")
+
+
+System(externalSystemAlias, "External System", " Describe system functionality")
+Rel(actor3Alias, externalSystemAlias, "Label", "describe activity")
+Rel(systemAlias, externalSystemAlias, "Label", "describe activity")
+
+
+@enduml

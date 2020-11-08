@@ -1,0 +1,35 @@
+== Current System understanding and Assumptions :
+Create a separate doc if applicable
+
+.Key points to capture :
+* Layout of software in the landscape today.(if applicable)
+* How existing system is delivering value.(if applicable)
+* What existing system is unable to do.(if capable)
+
+== Primary Motivation or Vision statement :
+
+TIP:Essence of what value business is looking to drive in the system
+
+
+== High Level Requirements :
+
+TIP: Only very high level key requirements
+
+
+== *ilities :
+
+List ilities in order of priority based off the high level requirements and overall vision in mind
+
+TIP: Watchout for subtle *ilities related to domain that business may not be able to make apparent
+
+
+== Output documents
+
+* Architecture Diagram(Use C4 template given in ArchitectureDiagram directory)
+* Test Strategy
+* Quality Strategy
+* Security Strategy
+* Data Strategy
+
+TIP: Not all of the above documents apply
+

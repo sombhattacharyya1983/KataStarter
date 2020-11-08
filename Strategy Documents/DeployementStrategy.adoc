@@ -1,0 +1,8 @@
+== Deployment Strategy
+
+. Key parameters to consider,
+* Frequency of deployment
+* Where -> Premise / Cloud
+* Predeployment safety check
+* Environments     -> (Prod/Non-Prod/QA/Dev)
+* Automated/Manual -> Time taken to deploy

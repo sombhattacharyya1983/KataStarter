@@ -1,0 +1,30 @@
+== Quality Strategy
+
+Establish Test Pyramid
+
+
+
+.System Testing
+*
+
+.Performance Tests
+*
+
+.Development Tests
+* Unit tests
+* Integration tests
+* TDD ?
+* UI tests/Smoke tests
+
+
+.PipeLine Integration
+
+.Automation
+*
+
+.Manual Testing
+*
+
+
+
+

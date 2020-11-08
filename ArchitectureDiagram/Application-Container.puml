@@ -1,0 +1,23 @@
+@startuml Bahmni_Context
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/release/1-0/C4_Container.puml
+
+Person(actor1Alias, "Actor 1", "A member of ...")
+Person(actor2Alias, "Actor 2", "A member of ...")
+Person(actor3Alias, "Actor 3", "A member of ...")
+
+
+System_Boundary(c1, "System Name") {
+Container(component1Alias,Some appliation, "Tech Stack : ... ","Describe component functionality")
+''Add containers here to represent components within the system boundary
+}
+
+Rel(actor1Alias, component1Alias, "Label", "Describe activities ...")
+Rel(actor2Alias, component1Alias, "Label", "Describe activities ...")
+
+System(externalSystemAlias, "External System", " Describe system functionality")
+
+Rel(actor3Alias, externalSystemAlias, "Label", "describe activity")
+
+
+
+@enduml

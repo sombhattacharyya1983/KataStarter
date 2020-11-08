@@ -1,0 +1,4 @@
+== Index of links to useful tools to use
+
+* Ascii Doc Cheatsheet  : https://powerman.name/doc/asciidoc
+* Online Ascii diagrams : http://asciiflow.com/
