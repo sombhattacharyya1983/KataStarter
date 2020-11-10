@@ -3,6 +3,10 @@
 An attempt to provide a set of documents that help guide decisions during a Architecture Kata and or solve any non trivial problem in software
 
 .Tries to cover the following :
-* A Legend.adoc file that talks about the structure of documents
+* A Legend.adoc file that talks about the overall scenario of what we are looking to do for any problem
 * The ArchitectureDiagram folder contains a template C4 diagram that can be copied and used in you favorite IDE to generate one as per your needs
-* Strategy documents that individually talk about what questions t try and answer at the least when coming up with a strategy
+* Strategy documents that individually talk about what questions to try to answer(at the least) when coming up with a strategy
+
+IMPORTANT: Use the PlantUML plugin for Intellij or VS code to be able to view the C4 in its glory
+           Uses the amazing work of https://github.com/RicardoNiepel/C4-PlantUML to visualize C4 diagrams
+

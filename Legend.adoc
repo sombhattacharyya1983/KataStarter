@@ -32,4 +32,3 @@ TIP: Watchout for subtle *ilities related to domain that business may not be abl
 * Data Strategy
 
 TIP: Not all of the above documents apply
-
