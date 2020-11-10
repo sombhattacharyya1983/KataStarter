@@ -3,7 +3,7 @@
 An attempt to provide a set of documents that help guide decisions during a Architecture Kata and or solve any non trivial problem in software
 
 .Tries to cover the following :
-* A Legend.adoc file that talks about the overall scenario of what we are looking to do for any problem
+* A `Legend.adoc` file that talks about the overall scenario of what we are looking to do for any problem
 * The ArchitectureDiagram folder contains a template C4 diagram that can be copied and used in you favorite IDE to generate one as per your needs
 * Strategy documents that individually talk about what questions to try to answer(at the least) when coming up with a strategy
 
