@@ -1,4 +1,4 @@
-== A starter kit for problem solving in a Kata
+== A starter kit for problem solving in a Architecture Kata format
 
 An attempt to provide a set of documents that help guide decisions during a Architecture Kata and or solve any non trivial problem in software
 
